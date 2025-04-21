@@ -62,10 +62,10 @@ AnnaData is built using modern web technologies to ensure a smooth, responsive e
   <img src="imagesanna\home.png" width="45%" alt="Food Analysis">
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="imagesanna\profile.png" width="45%" alt="Fitness Tracking">
   <img src="imagesanna\recipie.png" width="45%" alt="AI Insights">
-</div>
+</div> -->
 
 <!-- ## 🛠️ Installation and Setup
 
