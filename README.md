@@ -17,7 +17,7 @@
 
 ##  Overview
 
-**AnnaData** (अन्ना - Data) is a cutting-edge nutrition intelligence platform that empowers users to make informed dietary choices through advanced AI analysis, comprehensive tracking, and personalized insights. By combining beautiful, intuitive design with powerful data analytics, AnnaData transforms the way you understand and interact with your nutrition and fitness journey.
+**AnnaData** (অন্ন - Data) is a cutting-edge nutrition intelligence platform that empowers users to make informed dietary choices through advanced AI analysis, comprehensive tracking, and personalized insights. By combining beautiful, intuitive design with powerful data analytics, AnnaData transforms the way you understand and interact with your nutrition and fitness journey.
 
 ##  Key Features
 
@@ -57,12 +57,12 @@ AnnaData is built using modern web technologies to ensure a smooth, responsive e
 
 ##  Screenshots
 
-<div align="center">
+<!--<div align="center">
   <img src="imagesanna\fitness.png" width="45%" alt="Dashboard">
   <img src="imagesanna\home.png" width="45%" alt="Food Analysis">
 </div>
 
-<!--<div align="center">
+<div align="center">
   <img src="imagesanna\profile.png" width="45%" alt="Fitness Tracking">
   <img src="imagesanna\recipie.png" width="45%" alt="AI Insights">
 </div> -->
