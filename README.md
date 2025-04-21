@@ -1,6 +1,6 @@
 # AnnaData: Your Personal Nutrition Intelligence Platform
 
-![AnnaData Banner](https://raw.githubusercontent.com/NiladriHazra/AnnaData/main/imagesanna/banner.png)
+<!-- ![AnnaData Banner](https://raw.githubusercontent.com/NiladriHazra/AnnaData/main/imagesanna/banner.png)
 
 
 [![GitHub stars](https://img.shields.io/github/stars/NiladriHazra/AnnaData?style=social)](https://github.com/NiladriHazra/AnnaData/stargazers)
@@ -11,7 +11,7 @@
 
 <div align="center">
   <h3>Discover the nutrition behind your food with AI-powered insights</h3>
-</div>
+</div> -->
 
 ---
 
