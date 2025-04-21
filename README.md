@@ -15,38 +15,38 @@
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 **AnnaData** (अन्ना - Data) is a cutting-edge nutrition intelligence platform that empowers users to make informed dietary choices through advanced AI analysis, comprehensive tracking, and personalized insights. By combining beautiful, intuitive design with powerful data analytics, AnnaData transforms the way you understand and interact with your nutrition and fitness journey.
 
-## ✨ Key Features
+##  Key Features
 
 ### 🍽️ Food Intelligence
 - **AI-Powered Food Recognition**: Instantly identify and analyze foods through images
 - **Comprehensive Nutrition Database**: Access detailed nutritional information for thousands of foods
 - **Smart Recipe Analysis**: Break down recipes into their nutritional components
 
-### 📊 Personal Dashboard
+###  Personal Dashboard
 - **Customizable Overview**: At-a-glance visualization of your nutritional intake and goals
 - **Progress Tracking**: Monitor your nutrition and fitness journey with beautiful charts
 - **Achievement System**: Earn achievements and track progress toward health milestones
 
-### 🏋️ Fitness Integration
+###  Fitness Integration
 - **Workout Tracking**: Log and analyze your fitness activities
 - **Body Metrics**: Track weight, BMI, body measurements, and other health metrics over time
 - **Goal Setting**: Set and monitor personalized fitness and nutrition goals
 
-### 🧠 AI-Powered Insights
+###  AI-Powered Insights
 - **Personalized Recommendations**: Receive tailored nutrition and fitness suggestions
 - **Trend Analysis**: Understand patterns in your eating and exercise habits
 - **Smart Meal Planning**: Get AI-generated meal plans based on your dietary preferences and goals
 
-### 👤 Profile Management
+###  Profile Management
 - **Customizable User Profile**: Personalize your experience with themes and preferences
 - **Data Visualization**: Beautiful charts and graphs to visualize your health journey
 - **Social Sharing**: Connect with friends and share your achievements (optional)
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 AnnaData is built using modern web technologies to ensure a smooth, responsive experience:
 
@@ -55,7 +55,7 @@ AnnaData is built using modern web technologies to ensure a smooth, responsive e
 - **Database**: MongoDB (prepared integration)
 - **Authentication**: NextAuth.js
 
-## 📱 Screenshots
+##  Screenshots
 
 <div align="center">
   <img src="imagesanna\fitness.png" width="45%" alt="Dashboard">
