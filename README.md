@@ -1,5 +1,4 @@
 # AnnaData: Your Personal Nutrition Intelligence Platform
-![AnnaData Banner](https://raw.githubusercontent.com/SubhrajitG/Annya-Data--Data-/main/public/banner.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/SubhrajitG/Annya-Data--Data-?style=social)](https://github.com/SubhrajitG/Annya-Data--Data-/stargazers)
 [![GitHub license](https://img.shields.io/github/license/SubhrajitG/Annya-Data--Data-?color=blue)](https://github.com/SubhrajitG/Annya-Data--Data-/blob/main/LICENSE)
@@ -54,7 +53,7 @@ AnnaData is built using modern web technologies to ensure a smooth, responsive e
 - **Authentication**: NextAuth.js
 - 
 - <div align="center">
-  <img src="imagesanna\fitness.png" width="45%" alt="Dashboard">
+  <!--<img src="imagesanna\fitness.png" width="45%" alt="Dashboard">-->
   <img src="imagesanna\home.png" width="45%" alt="Food Analysis">
 </div>
 
