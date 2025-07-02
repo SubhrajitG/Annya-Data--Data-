@@ -1,17 +1,15 @@
 # AnnaData: Your Personal Nutrition Intelligence Platform
+![AnnaData Banner](https://raw.githubusercontent.com/SubhrajitG/Annya-Data--Data-/main/public/banner.png)
 
-<!-- ![AnnaData Banner](https://raw.githubusercontent.com/NiladriHazra/AnnaData/main/imagesanna/banner.png)
+[![GitHub stars](https://img.shields.io/github/stars/SubhrajitG/Annya-Data--Data-?style=social)](https://github.com/SubhrajitG/Annya-Data--Data-/stargazers)
+[![GitHub license](https://img.shields.io/github/license/SubhrajitG/Annya-Data--Data-?color=blue)](https://github.com/SubhrajitG/Annya-Data--Data-/blob/main/LICENSE)
+[![Version](https://img.shields.io/badge/version-1.0.0-indigo)](https://github.com/SubhrajitG/Annya-Data--Data-)
+[![JavaScript](https://img.shields.io/badge/JavaScript-XX%25-yellow)](https://github.com/SubhrajitG/Annya-Data--Data-)
 
-
-[![GitHub stars](https://img.shields.io/github/stars/NiladriHazra/AnnaData?style=social)](https://github.com/NiladriHazra/AnnaData/stargazers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/PixelNiladri?style=social)](https://twitter.com/PixelNiladri)
-[![GitHub license](https://img.shields.io/github/license/NiladriHazra/AnnaData?color=blue)](https://github.com/NiladriHazra/AnnaData/blob/main/LICENSE)
-[![Version](https://img.shields.io/badge/version-2.4.0-indigo)](https://github.com/NiladriHazra/AnnaData)
-[![JavaScript](https://img.shields.io/badge/JavaScript-99.9%25-yellow)](https://github.com/NiladriHazra/AnnaData)
 
 <div align="center">
   <h3>Discover the nutrition behind your food with AI-powered insights</h3>
-</div> -->
+</div> 
 
 ---
 
