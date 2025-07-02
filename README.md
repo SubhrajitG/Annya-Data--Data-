@@ -52,6 +52,17 @@ AnnaData is built using modern web technologies to ensure a smooth, responsive e
 - **Data Visualization**: Recharts
 - **Database**: MongoDB (prepared integration)
 - **Authentication**: NextAuth.js
+- 
+- <div align="center">
+  <img src="imagesanna\fitness.png" width="45%" alt="Dashboard">
+  <img src="imagesanna\home.png" width="45%" alt="Food Analysis">
+</div>
+
+<div align="center">
+  <img src="imagesanna\profile.png" width="45%" alt="Fitness Tracking">
+  <img src="imagesanna\recipie.png" width="45%" alt="AI Insights">
+</div> -->
+
 
 <!--##  Screenshots
 
